@@ -60,6 +60,13 @@ The control keys used are the following:
 * Adjustments to nearly all items.
 * Adjustments to bots and boss bot.
 * Removed utility spin due to frame-drop issues.
+* Breach Demo 3.7.0 now available.
+  	* This mode is for extremely quick plays.
+  	* Features:
+    		* Further adjustments to nearly all items.
+    		* Further adjustments to bots and boss bot.
+    		* Guns and the Barrier Utility are disabled from dropping from crates.
 * Fixed 2 bugs:
-  1. More than one item drop can now appear in the world within the same frame.
-  2. High-velocity bullets no longer pass through smaller structures.
+  	1. More than one item drop can now appear in the world within the same frame.
+  	2. High-velocity bullets no longer pass through smaller structures.
+
