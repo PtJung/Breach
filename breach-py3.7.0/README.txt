@@ -74,8 +74,13 @@ KNOWN BUGS
                     units for each time the player enters the map's "edge 
                     area". *
 
-		[4] Bots will move in a rough-follow manner when approaching
+		[2] Bots will move in a rough-follow manner when approaching
                     the player from the edge of the screen. *
+		    
+		[3] On some occassions, AI-3 bots will wander out of the map
+		    and refuse to return. Therefore, the game will never yield
+		    a victory even under the correct winning circumstances. Due 
+		    to this, only bots of AI-1 and AI-2 are available. **
 
 GAME MECHANIC DETAILS
 
