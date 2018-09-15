@@ -588,7 +588,7 @@ def spawnBotsByWave(radiusToPlayerCenter, screenObject, wavecounterObject, \
          initialCoords = genInitBotCoords(screenObject)
          botGun = getAllGunNames()[random.randrange(0, len(getAllGunNames()) - 1)]
          botInventory = ["", "", "", botGun]
-         botAImode = random.choice(getAIModes())
+         botAImode = random.choice(getAIModes()[:-1])
          
          # Bot: append to list
          botsCreated.append(classBreach.Bot( \
@@ -606,7 +606,7 @@ def spawnBotsByWave(radiusToPlayerCenter, screenObject, wavecounterObject, \
       initialCoords = genInitBotCoords(screenObject)
       botGun = getAllGunNames()[-1]
       botInventory = ["", "", "", botGun]
-      botAImode = getAIModes()[1]
+      botAImode = random.choice(getAIModes()[:-1])
                
       # Bot: append to list
       botsCreated.append(classBreach.Bot( \
