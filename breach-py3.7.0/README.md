@@ -76,9 +76,8 @@ the player from the edge of the screen. **\***
 
 3. On some occassions, AI-3 bots will wander out of the map
 and refuse to return. Therefore, the game will never yield
-a victory under the correct winning circumstances. 
-
-Due to this, only bots of AI-1 and AI-2 are available. **\****
+a victory even under the correct winning circumstances. Due 
+to this, only bots of AI-1 and AI-2 are available. **\****
 
 ## Game Mechanic Details
 
