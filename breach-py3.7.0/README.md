@@ -18,7 +18,7 @@ As a result of their unsuspected artificial intelligence, lab robots are on the 
                     
 ### Player's Goal
                       
-This is a 2-D single-player game. The goal of the game is to survive and eliminate as many waves of bot entities as possible, with an increasing difficulty in every wave. There will be a maximum of twenty waves; the only possible way to win the game is to successfully manage all twenty-five waves, or else you lose the game.
+This is a 2-D single-player game. The goal of the game is to survive and eliminate as many waves of bot entities as possible, with an increasing difficulty in every wave. There will be a maximum of twenty-five waves; the only possible way to win the game is to successfully manage all twenty-five waves, or else you lose the game.
 
 ## Control Keys
                     
@@ -71,13 +71,7 @@ A scale is used to measure the severity of the known bugs, and a measurement wil
 units for each time the player enters the map's "edge 
 area". **\***
 
-2. Fast enough bullets can pass through fast enough entities.
-An entity can include both player and bot. **\*\***
-
-3. If more than one crate in the world is destroyed at the
-same time, the crates will only yield one item drop. **\*\***
-
-4. Bots will move in a rough-follow manner when approaching
+2. Bots will move in a rough-follow manner when approaching
 the player from the edge of the screen. **\***
 
 ## Game Mechanic Details
@@ -108,7 +102,7 @@ the player from the edge of the screen. **\***
 
 ### Items
 
-* Item drops last 15 seconds before despawning from the world.
+* Item drops last 30 seconds before despawning from the world.
 
 #### Guns
 
@@ -119,20 +113,20 @@ the player from the edge of the screen. **\***
 			- 80 DMG/B; 1.00 B/s; 65 u/f; 1 B/S
 			- only obtainable through first wave
 		- Machine Gun:		
-			- 30 DMG/B; 8.00 B/s; 60 u/f; 1 B/S
+			- 40 DMG/B; 8.00 B/s; 60 u/f; 1 B/S
 		- Shot Gun:		
-			- 50 DMG/B; 0.67 B/s; 50 u/f; 6 B/S
+			- 65 DMG/B; 0.67 B/s; 50 u/f; 6 B/S
 		- Assault Rifle:	
-			- 60 DMG/B; 5.0 B/s; 60 u/f; 1 B/S
+			- 65 DMG/B; 5.0 B/s; 60 u/f; 1 B/S
 		- Sniper Rifle:		
-			- 600 DMG/B; 0.50 B/s; 80 u/f; 1 B/S
+			- 300 DMG/B; 0.50 B/s; 75 u/f; 1 B/S
 					
 #### Boosts
 
 * All boosts are consumables; they will disappear upon usage.
 
 		- Health Boost: 
-			- permanently gains an additional 50 max health
+			- permanently gains an additional 25 max health
 			- heals for 50% of max health after the increment
 		- Movement Speed Boost:
 			- permanently gains an additional 10% of original movement speed
@@ -142,12 +136,12 @@ the player from the edge of the screen. **\***
 #### Utilities
 
 * All utilities are consumables; they will disappear upon usage.
-* Each utility has a radius of effect of 256 units.
+* Each utility has a radius of effect of 512 units.
 
 		- Barrier:
-			- blocks all bullets from bots anywhere within range for up to 5 seconds
+			- blocks all bullets from bots anywhere within range for up to 10 seconds
 		- Stunner:
-			- stuns all bots within range for 5 seconds
+			- stuns all bots within range for 10 seconds
 		- Bomb:
-			- deals 750 damage to all bots within range
+			- deals 1000 damage to all bots within range
 				
