@@ -18,7 +18,7 @@ As a result of their unsuspected artificial intelligence, lab robots are on the 
                     
 ### Player's Goal
                       
-This is a 2-D single-player game. The goal of the game is to survive and eliminate as many waves of bot entities as possible, with an increasing difficulty in every wave. There will be a maximum of twenty waves; the only possible way to win the game is to successfully manage all twenty-five waves, or else you lose the game.
+This is a 2-D single-player game. The goal of the game is to survive and eliminate as many waves of bot entities as possible, with an increasing difficulty in every wave. There will be a maximum of twenty-five waves; the only possible way to win the game is to successfully manage all twenty-five waves, or else you lose the game.
 
 ## Control Keys
                     
