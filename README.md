@@ -11,18 +11,10 @@
 
 **Python Libraries:**
 * pygame
-
-## Idea
-
-The idea of the game is explained below:
-                    
-### Background
-                    
-As a result of their unsuspected artificial intelligence, lab robots are on the run to eliminate humanity. However, hope is still left; you hold the tools that are able to destroy the runaway robots. The robots had already detected them, so they are hunting you first -- as you are deemed their biggest threat.
-                    
-### Player's Goal
+           
+## Player's Goal
                       
-This is a 2-D single-player game. The goal of the game is to survive and eliminate as many waves of bot entities as possible, with an increasing difficulty in every wave. There will be a maximum of twenty-five waves; the only possible way to win the game is to successfully manage all twenty-five waves, or else you lose the game.
+This is a 2-D single-player game. The goal of the game is to survive and eliminate as many waves of bots as possible, with an increasing difficulty in every wave. There will be a maximum of twenty-five waves and the only possible way to win the game is to successfully manage all twenty-five waves, or else you lose the game.
 
 ## Control Keys
                     
