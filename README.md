@@ -21,14 +21,14 @@ This is a 2-D single-player game. The goal of the game is to survive and elimina
 The control keys used are the following:
 
 * Player Movement: 
-	* UP, LEFT, DOWN, RIGHT
-	* W, A, S, D
+	* <tt>UP</tt>, <tt>LEFT</tt>, <tt>DOWN</tt>, <tt>RIGHT</tt>
+	* <tt>W</tt>, <tt>A</tt>, <tt>S</tt>, <tt>D</tt>
 * Player Hotbar: 
-	* 1, 2, 3, 4
+	* <tt>1</tt>, <tt>2</tt>, <tt>3</tt>, <tt>4</tt>
 * Item Interaction:
-	* E
+	* <tt>E</tt>
 * Quit Game: 
-	* ESCAPE
+	* <tt>ESCAPE</tt>
 
 ## Tips
 
