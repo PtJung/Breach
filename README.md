@@ -21,22 +21,22 @@ This is a 2-D single-player game. The goal of the game is to survive and elimina
 The control keys used are the following:
 
 * Player Movement: 
-	* [UP], [LEFT], [DOWN], [RIGHT]
-	* [W], [A], [S], [D]
+	* UP, LEFT, DOWN, RIGHT
+	* W, A, S, D
 * Player Hotbar: 
-	* [1], [2], [3], [4] 
+	* 1, 2, 3, 4
 * Item Interaction:
-	* [E]
+	* E
 * Quit Game: 
-	* [ESCAPE]
+	* ESCAPE
 
 ## Tips
 
 1. During a wave, keep on moving around to keep yourself from getting shot, especially from snipers.
 
-2. Never get to close to a bot, or else dodging their close-up bullets will become difficult; in some cases, dodging will be impossible.
+2. Never get to close to a bot, or else dodging their close-up bullets will become difficult. In some cases, dodging will be impossible.
 
-3. Prioritize bots with specific guns over other bots, to decrease the chances of taking incredible amounts of damage-per-second.
+3. Prioritize bots with specific guns over other bots, to decrease the chances of taking incredible amounts of damage over time.
 
 4. Stay away from the map's edges, as bots can surprise you from the edges if you are too close to them.
 
