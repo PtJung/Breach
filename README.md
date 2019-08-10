@@ -7,14 +7,14 @@
 
 ## Program Description
 
-"Breach" is the name of my ICS3U culminating assignment, inspired by **surviv.io**, an online 2-D battle royal game. 
+Breach is my battle royale-inspired Pygame project, accompanied by custom graphics and object design. It was inspired by **surviv.io**, an online 2-D battle royal game.
 
 **Python Libraries:**
 * pygame
            
 ## Player's Goal
                       
-This is a 2-D single-player game. The goal of the game is to survive and eliminate as many waves of bots as possible, with an increasing difficulty in every wave. There will be a maximum of twenty-five waves and the only possible way to win the game is to successfully manage all twenty-five waves, or else you lose the game.
+This is a 2-D single-player game. The goal of the game is to survive and eliminate as many waves of bots as possible, with an increasing difficulty in every wave. There will be a maximum of twenty-five waves and the only way to win the game is to successfully beat all twenty-five waves, or else the game is lost.
 
 ## Control Keys
                     
@@ -29,24 +29,6 @@ The control keys used are the following:
 	* <tt>E</tt>
 * Quit Game: 
 	* <tt>ESCAPE</tt>
-
-## Tips
-
-1. During a wave, keep on moving around to keep yourself from getting shot, especially from snipers.
-
-2. Never get to close to a bot, or else dodging their close-up bullets will become difficult. In some cases, dodging will be impossible.
-
-3. Prioritize bots with specific guns over other bots, to decrease the chances of taking incredible amounts of damage over time.
-
-4. Stay away from the map's edges, as bots can surprise you from the edges if you are too close to them.
-
-5. Maximize your health gain from health boosts by finishing a fight before using the boost.
-
-6. Gain and stack as many boosts you can find as possible for a maximum effect.
-
-7. Utilities are risky to use. However, when used properly, they can really turn the game around.
-
-8. Tend to exploit the fact that bots cannot shoot off-screen.
 
 ## Changelog
 
